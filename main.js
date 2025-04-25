@@ -20,11 +20,11 @@ const botoes = document.querySelectorAll(".botao");
                 <button class="botao ativo">passar de ano
                 <button class="botao">passar no enem
                 <button class="botao">tirar titulo e eleitor
-                <button class="botao">passar no vstibular
+                <button class="botao">passar no vestibular
             </div>
             <div class="abas-textos">
                 <div class="aba-conteudo ativo">
-                    <h3 class="aba-conteudo-titulo-principal">passar e ano
+                    <h3 class="aba-conteudo-titulo-principal">passar de ano
                     <h4 class="aba-conteudo-titulo-secundario">Tempo para completar o objetivo</h4>
                     <div class="contador"></div>
                 </div>
@@ -34,7 +34,7 @@ const botoes = document.querySelectorAll(".botao");
                     <div class="contador"></div>
                 </div>
                 <div class="aba-conteudo">
-                    <h3 class="aba-conteudo-titulo-principal">Criar um portfolio com os meus 3 melhores projetos</h3>
+                    <h3 class="aba-conteudo-titulo-principal">Criar tirar titulo de eleitor</h3>
                     <h4 class="aba-conteudo-titulo-secundario">Tempo para completar o objetivo</h4>
                     <div class="contador"></div>
                 <div class="botoes">
